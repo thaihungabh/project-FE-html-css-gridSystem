@@ -1,0 +1,156 @@
+/* Thuộc tính chung - Tránh lặp lại code!!! */
+/* Mobile & Tablet: width < 1024px */
+@media only screen and (max-width: 63.9375em) {
+    #header {
+        height: 76px;
+    }
+
+    .hiden {
+        display: none;
+    }
+
+    .tab-mobie-nav,
+    .icont-bars_nav-tab-mb {
+        display: block;
+    }
+}
+
+
+/* Tablet: width >= 740px & < 1024px */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+
+    #slider .slider-caption {
+        transform: translateY(-110%);
+    }
+
+    .slider-cap-1 {
+        line-height: 40px;
+        font-size: 40px;
+    }
+
+    .slider-cap-2 {
+        line-height: 23px;
+        font-size: 23px;
+        margin: 10px 0px 0px;
+        color: #657b89;
+    }
+
+    .slider-cap-3 {
+        line-height: 64px;
+        font-size: 64px;
+        font-weight: bold;
+        margin: 5px 0px 0px;
+    }
+
+    .slider-cap-4 {
+        line-height: 25px;
+        font-size: 25px;
+        margin: 5px 0px 0px;
+    }
+
+    #content .sanpham-title {
+        font-size: 16px;
+    }
+
+    #content .sp-banchay-MSSP,
+    #content .sp-banchay-name {
+        margin-top: 0;
+        font-size: 17px;
+    }
+
+    #content .sp-banchay-gia-KM,
+    #content .sp-banchay-gia {
+        font-size: 20px;
+    }
+
+    #content .bai-viet-title { 
+        height: 61.4px;
+    }
+
+    #content .uy-tin-box {
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+}
+
+
+/* Mobile: width < 740px */
+@media only screen and (max-width: 46.1875em) {
+
+    .slider-cap-1 {
+        line-height: 20px;
+        font-size: 20px;
+    }
+
+    .slider-cap-2 {
+        line-height: 13px;
+        font-size: 16px;
+        margin: 5px 0px 0px;
+        color: #657b89;
+    }
+
+    .slider-cap-3 {
+        line-height: 21px;
+        font-size: 21px;
+        font-weight: bold;
+        margin: 2px 0px 0px;
+    }
+
+    .slider-cap-4 {
+        line-height: 14px;
+        font-size: 14px;
+        margin: 2px 0px 0px;
+    }
+
+    #content .sp-banchay-MSSP,
+    #content .sp-banchay-name {
+        margin-top: 0;
+        font-size: 14px;
+    }
+
+    #content .sp-banchay-gia-KM,
+    #content .sp-banchay-gia {
+        font-size: 16px;
+    }
+
+    #content .uy-tin-box {
+        padding: 18px 0.95px;
+    }
+
+    #content .uy-tin-icont {
+        font-size: 40.4px;
+    }
+
+    #content .uy-tin-content-box {
+        width: 134px;
+        margin: 0;
+    }
+
+    #footter .ft-content-box a {
+        padding: 0px 6px;
+        line-height: 10px;
+    }
+
+    #footter .ft-content-box .ft-content-title {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+
+    #footter .ft-content-box li {
+        height: 90px;
+        padding: 5px 0px;
+    }
+
+    #footter .footter-payment li {
+        margin-right: 5px;
+    }
+
+    #footter .footter-social li {
+        font-size: 20px;
+        margin-right: 5px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+    }
+}

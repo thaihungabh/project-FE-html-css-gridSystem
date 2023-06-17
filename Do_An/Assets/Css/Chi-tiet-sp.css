@@ -1,0 +1,454 @@
+#chi-tiet-shop {
+    padding-top: 50px;
+    height: 1252px;
+    float: none;
+    clear: both;
+    margin: 0px 120px;
+}
+
+#aside-menu {
+    float: right;
+    width: 20%;
+}
+
+#aside-menu .side-bar-box {
+    border: 1px solid #eaebec;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin-bottom: 27px;
+}
+
+#aside-menu .side-bar-box input {
+    height: 45px;
+    width: 85%;
+    color: #4b5f6b;
+    border: none;
+    border-right: 1px solid #eaebec;
+    font-size: 17px;
+}
+
+#aside-menu .side-bar-box i {
+    color: #3e993e;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#aside-menu .side-bar-title {
+    font-size: 18px;
+    color: #4b5f6b;
+    text-transform: uppercase;
+    padding: 13px 15px;
+    border-bottom: 1px solid #eaebec;
+}
+
+#aside-menu .side-bar-ctbox li {
+    list-style-type: none;
+    text-transform: capitalize;
+    border-bottom: 1px solid #eaebec;
+    padding: 10px 15px;
+    height: 41px; 
+}
+
+#aside-menu .side-bar-ctbox li:hover a {
+    color: #ff9f1c;
+}
+
+#aside-menu .side-bar-ctbox a{
+    text-decoration: none;
+    color: #3e993e;    
+}
+
+#sum-content {
+    float: left;
+    width: 80%;
+}
+
+#sum-content .abulm-iamge {
+    float: left;
+}
+
+#sum-content .abulm-image-mini img {
+    width: 83.59px;
+    margin: 12px 5px 0px 0px
+}
+
+.sp-sale {
+    position: relative;
+    
+}
+
+#sum-content .sp-sale-iconsale {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    background-color: #ff9f1c;
+    color: #fbfcfe;
+    text-align: center;
+    font-weight: bold;
+    line-height: 62px;
+    width: 62px;
+    border-radius: 50px 50px; 
+}
+
+#sum-content .ct-shop-content-box {
+    float: left;
+    width: 45.555%;
+    margin-left: 50px;
+    line-height: 1.3;
+}
+
+#sum-content .ct-shop-content-box h1 {
+    font-size: 24px;
+    color: #344655;
+    margin-bottom: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#sum-content .ct-shop-content-box .gia-goc {
+    color: #8e9aa2;
+    height: 24px;
+    text-decoration: line-through;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+#sum-content .ct-shop-content-box .gia-km {
+    color: #344655;
+    height: 24px;
+    font-weight: 700;
+}
+
+#sum-content .ct-shop-content-box p {
+    margin-bottom: 20px;
+    color: #748087;
+}
+
+#sum-content .ct-shop-content-box ul {
+    padding-left: 47px;
+    color: #748087;
+    list-style-type: square;
+    margin-bottom: 20px;
+
+}
+
+#sum-content .content-box-hang-ton {
+    color: #e8bc20;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+#sum-content .ct-content-dat-hang {
+    margin-bottom: 20px;
+}   
+
+#sum-content .ct-content-dat-hang .ct-content-so-luong {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4b5f6b;
+    margin-right: 40px;
+    display: inline;
+}
+
+#sum-content .ct-content-dat-hang .ct-content-sl-input  {
+    padding: 9px 0px;
+    display: inline;
+}
+
+.ct-content-dat-hang .ct-content-sl-input input {
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid rgb(0, 0, 0,0.4);
+    width: 72px;
+    height: 30.8px;
+}
+
+#sum-content .ct-content-dat-hang-btt button {
+    height: 50px;
+    width: 75%;
+    background-color: #a46497;
+    font-size: 20px;
+    margin-right: 5px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ct-content-dat-hang-btt button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#sum-content .ct-content-dat-hang-btt .dat-hang-btt-save {
+    background-color: #3e993e;
+    font-size: 20px;
+    color: #fff;
+    padding: 11px;
+    float: right;
+    font-weight: bold;
+}
+
+#sum-content .ct-content-footer-dh {
+    margin-top: 25px;
+}
+
+#sum-content .ct-content-footer-dh span {
+    color: #748087;
+}
+
+#sum-content .ct-content-footer-dh a {
+    text-decoration: none;
+    color: #e8bc20;
+}
+
+#sum-content .box-MT {
+    margin: 30px 0px;
+    border: 1px solid #eaebec;
+}
+
+#sum-content .aside-MT {
+    float: left;
+    width: 23%;
+    height: 500px;
+}
+
+#sum-content .aside-MT h3 {
+    color: #e8bc20;
+    font-size: 18px;
+    padding: 11px 20px;
+    border-bottom: 1px solid #eaebec;
+}
+
+#sum-content .aside-MT div {
+    color: #8e9aa2;
+    padding: 11px 20px;
+    font-size: 18px;
+    border-bottom: 1px solid #eaebec;
+    
+}
+
+#sum-content .aside-MT .aside-MT-SL-view {
+    background-color: #8e9aa2;
+    padding: 3px 8px;
+    color: #fff;
+    margin-left: 20px;
+}
+
+#sum-content .MT-content {
+    float: left;
+    width: 70%;
+    color: #748087;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    line-height: 1.3;
+    border-left: 1px solid #eaebec;
+}
+
+#sum-content .MT-content h2 {
+    color: #4b5f6b;
+    font-size: 34px;
+    font-weight: normal;
+    margin: 12px 0px;
+}
+
+#sum-content .MT-content p,
+#sum-content .MT-content div {
+    margin-bottom: 20px;
+}
+/* ???? */
+h2 {
+    color: #3e993e;
+    font-size: 20px;
+    margin: 17px 0px;
+    text-transform: uppercase;
+}
+
+#chi-tiet-shop .shop-list-sp {
+    float: left;
+    width: 25.03%;
+    height: 334px;
+    max-width: 270px;
+    margin-right: 3.44%;
+    padding: 6px;
+    box-sizing: border-box;
+    border: 1px solid #d5d8db;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#chi-tiet-shop .sp-sale {
+    position: relative;
+}
+
+#chi-tiet-shop .sp-sale:hover .sp-sale-iconsale.head-icon,
+#chi-tiet-shop .sp-sale:hover .shop-gio-hang,
+#chi-tiet-shop .sp-sale:hover .shop-xem-nhanh,
+#chi-tiet-shop .sp-sale:hover .shop-xem-ct {
+    display: block;
+}
+
+#chi-tiet-shop .sp-sale:hover .sp-sale-iconsale {
+    display: none;
+}
+
+#chi-tiet-shop .sp-sale:hover img {
+    opacity: 0.7;
+}
+
+#chi-tiet-shop .sp-sale-iconsale {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    background-color: #ff9f1c;
+    color: #fbfcfe;
+    text-align: center;
+    font-weight: bold;
+    line-height: 62px;
+    width: 62px;
+    border-radius: 50px 50px; 
+}
+
+#chi-tiet-shop .head-icon {
+    background-color: rgb(255, 0, 0, 0.5);
+    display: none;
+    cursor: pointer;
+}
+
+#chi-tiet-shop .head-icon i {
+    font-size: 25px;
+    text-align: center; 
+    margin-right: 10px;
+}
+
+.shop-list-sp .shop-sp-name {
+    margin: 10px 0px 5px;
+    height: 24px;
+    color: #748087;
+}
+
+.shop-list-sp .shop-sp-price {
+    margin-bottom: 9px;
+}
+
+.shop-list-sp .price-goc {
+    font-size: 18px;
+    color: #8e9aa2;
+    text-decoration: line-through;
+}
+
+.shop-list-sp .price-km {
+    font-size: 18px;
+    color: #344655;
+}
+
+#chi-tiet-shop .shop-xem-ct,
+#chi-tiet-shop .shop-xem-nhanh {
+    cursor: pointer;
+    height: 38px;
+    width: 150px;
+    border: 1px solid #fff;
+    text-align: center;
+    line-height: 38px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 5px;
+    display: none;
+}
+
+#chi-tiet-shop .shop-xem-ct:hover,
+#chi-tiet-shop .shop-xem-nhanh:hover {
+    background-color: #e8bc20;
+    font-size: 17px;
+
+}
+
+#chi-tiet-shop .shop-xem-nhanh {
+    position: absolute;
+    top: 82px;
+    left: 44px;
+}
+
+#chi-tiet-shop .shop-xem-ct {
+    position: absolute;
+    top: 130px;
+    left: 44px;
+}
+
+#chi-tiet-shop .shop-gio-hang {
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    height: 57.8px;
+    line-height: 44.8px;
+    padding: 8px 0px;
+    background-color: #e8bc20;
+    position: absolute;
+    bottom: 4px;
+    left: 1px;
+    display: none;
+}
+
+#chi-tiet-shop .shop-xem-ct a,
+#chi-tiet-shop .shop-xem-nhanh a,
+#chi-tiet-shop .shop-gio-hang a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#chi-tiet-shop .shop-gio-hang span,i {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#chi-tiet-shop .uy-tin-list {
+    padding: 0px 150px;
+    height: 195px;
+    margin-top: 15px;
+ }
+ 
+ #chi-tiet-shop .uy-tin-box {
+     float: left;
+     width: 31.62%;
+     max-width: 370px;
+     margin:1.28% 2.56% 1.28% 0;
+     padding: 18px 29.95px;
+     background: #fff;
+     border: 1px solid #eaebec;
+     box-sizing: border-box;  
+ }
+ 
+ #chi-tiet-shop .uy-tin-icont {
+     display: inline;
+     margin-right: 13px;
+     height: 50px;
+     font-size: 50.4px;
+     color: #3e993e;
+ }
+
+ #chi-tiet-shop .uy-tin-icont i {
+     font-size: 43.9px;
+ }
+ 
+ #chi-tiet-shop .uy-tin-content-box {
+     float: right;
+     line-height: 1.3;
+     width: 210px;
+     margin-right: 20px;
+ }
+ 
+ #chi-tiet-shop .uy-tin-title {
+     font-size: 22px;
+     margin-bottom: 7px;
+     color: #4b5f6b;
+     text-transform: uppercase;
+ }
+ 
+ #chi-tiet-shop .uy-tin-content {
+     color: #748087;
+     height: 96px;
+ }
+
